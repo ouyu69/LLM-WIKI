@@ -8,6 +8,7 @@
 - [[sources/来源_JVM常见面试题总结]] - JavaGuide JVM 面试题综述，覆盖运行时数据区、GC、类加载与双亲委派、以及常用排查工具。
 - [[sources/来源_MySQL常见面试题总结]] - JavaGuide MySQL 面试题综述，覆盖基础、字段类型、存储引擎、索引、日志、事务、锁与性能优化。
 - [[sources/来源_OpenClaw橙皮书]] - OpenClaw 橙皮书摘要，覆盖产品定位、架构、部署、渠道、Skills、模型、安全成本与生态。
+- [[sources/来源_Obsidian_GitHub_Termux全平台同步工作流]] - Obsidian 全平台同步实践摘要，覆盖方案选型、Termux 原生 Git、一键脚本与 gitignore 治理。
 
 ## Java Concepts
 - [[concepts/概念_JVM_JDK_JRE与字节码]] - JVM/JDK/JRE 边界、字节码、解释执行、JIT 与 AOT。
@@ -81,3 +82,9 @@
 - [[concepts/概念_OpenClaw安全与成本]] - RCE、供应链攻击、认证、权限与 API 费用控制。
 - [[concepts/概念_OpenClaw生态与国内产品]] - 养虾文化、Moltbook、国内生态与国产 Claw 产品。
 - [[comparisons/OpenClaw_vs_Claude_Code]] - OpenClaw 与 Claude Code 的定位、能力和组合方式。
+
+## Obsidian & Sync Concepts
+- [[concepts/概念_Obsidian多端同步方案选型]] - 官方 Sync、网盘与 Git 路线的取舍，以及大仓库场景的实践建议。
+- [[concepts/概念_Termux原生Git接管Obsidian移动端同步]] - Android 端用 Termux 原生 Git 接管同步的流程与边界。
+- [[concepts/概念_Obsidian仓库Gitignore策略]] - Obsidian 仓库的忽略规则设计与冲突治理要点。
+- [[concepts/概念_移动端一键同步脚本_Commit_Pull_Push]] - 一键同步脚本的标准流程、保护机制与风险点。

@@ -107,3 +107,14 @@
 	- [[concepts/概念_MySQL性能优化路径]]
 - 更新 [[index]]，补充 MySQL 来源与 Database Concepts 索引项。
 - 整理 `raw/`：已复制 `raw/未处理/MySQL常见面试题总结.md` 到 `raw/已处理/`，原文件因系统占用暂未删除，未修改原文内容。
+
+## [2026-04-24] ingest | raw/未处理/Obsidian + GitHub + Termux 打造全平台丝滑同步工作流.md -> wiki/sources/来源_Obsidian_GitHub_Termux全平台同步工作流.md (+ concepts)
+
+- 新建来源页：[[sources/来源_Obsidian_GitHub_Termux全平台同步工作流]]
+- 新建概念页：
+	- [[concepts/概念_Obsidian多端同步方案选型]]
+	- [[concepts/概念_Termux原生Git接管Obsidian移动端同步]]
+	- [[concepts/概念_Obsidian仓库Gitignore策略]]
+	- [[concepts/概念_移动端一键同步脚本_Commit_Pull_Push]]
+- 更新 [[index]]，补充来源索引与 Obsidian/同步主题索引。
+- 整理 `raw/`：将 `raw/未处理/Obsidian + GitHub + Termux 打造全平台丝滑同步工作流.md` 归入 `raw/已处理/`，未修改原文内容。
