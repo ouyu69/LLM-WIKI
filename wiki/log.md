@@ -118,3 +118,11 @@
 	- [[concepts/概念_移动端一键同步脚本_Commit_Pull_Push]]
 - 更新 [[index]]，补充来源索引与 Obsidian/同步主题索引。
 - 整理 `raw/`：将 `raw/未处理/Obsidian + GitHub + Termux 打造全平台丝滑同步工作流.md` 归入 `raw/已处理/`，未修改原文内容。
+
+## [2026-04-24] ingest | raw/未处理/冷门科技 —— DFS 序求 LCA.md -> wiki/sources/来源_冷门科技_DFS序求LCA.md (+ concepts)
+
+- 新建来源页：[[sources/来源_冷门科技_DFS序求LCA]]
+- 新建概念页：
+	- [[concepts/概念_树上LCA_DFS序方法]]
+- 更新 [[index]]，补充来源索引与算法主题索引。
+- 整理 `raw/`：将 `raw/未处理/冷门科技 —— DFS 序求 LCA.md` 归入 `raw/已处理/`，未修改原文内容。

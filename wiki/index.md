@@ -9,6 +9,7 @@
 - [[sources/来源_MySQL常见面试题总结]] - JavaGuide MySQL 面试题综述，覆盖基础、字段类型、存储引擎、索引、日志、事务、锁与性能优化。
 - [[sources/来源_OpenClaw橙皮书]] - OpenClaw 橙皮书摘要，覆盖产品定位、架构、部署、渠道、Skills、模型、安全成本与生态。
 - [[sources/来源_Obsidian_GitHub_Termux全平台同步工作流]] - Obsidian 全平台同步实践摘要，覆盖方案选型、Termux 原生 Git、一键脚本与 gitignore 治理。
+- [[sources/来源_冷门科技_DFS序求LCA]] - 树上 LCA 的 DFS 序方法摘要，覆盖性质证明、ST 表实现与和欧拉序/倍增/树剖的对比。
 
 ## Java Concepts
 - [[concepts/概念_JVM_JDK_JRE与字节码]] - JVM/JDK/JRE 边界、字节码、解释执行、JIT 与 AOT。
@@ -71,6 +72,9 @@
 - [[concepts/概念_MySQL锁机制_表锁行锁意向锁]] - 表锁、行锁、意向锁与锁冲突分析。
 - [[concepts/概念_MySQL执行流程与EXPLAIN]] - 执行计划解读与调优入口。
 - [[concepts/概念_MySQL性能优化路径]] - 从慢 SQL 到架构扩展的优化路线。
+
+## Algorithm Concepts
+- [[concepts/概念_树上LCA_DFS序方法]] - 用 DFS 序把 LCA 转为 RMQ，并通过 ST 表实现 O(1) 查询。
 
 ## OpenClaw Pages
 - [[overview/主题_OpenClaw总览]] - OpenClaw 作为自托管多渠道 AI Agent 系统的整体认知。
